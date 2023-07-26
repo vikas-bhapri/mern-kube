@@ -1,0 +1,35 @@
+#loginBtn{
+  display: inline;
+  color: white;
+  background-color: #00b000;
+  padding: 10px 50px;
+  border: #00b000;
+}
+
+#signupBtn{
+  display: inline;
+  color: white;
+  background-color: #00b000;
+  padding: 10px 50px;
+  border: #00b000;
+  position: absolute;
+  left: 46%;
+}
+
+pre{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h2{
+  text-align: center;
+}
+
+.credLabel{
+  text-align: right;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.form-text{
+  text-align: center;
+}
